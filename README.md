@@ -8,6 +8,7 @@
     <h1>RockyBot: News Research Tool</h1>
     <h2>Overview</h2>
     <p>RockyBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.</p>
+    <img src="https://github.com/codebasics/langchain/raw/main/2_news_research_tool_project/rockybot.jpg"></img>
     <h2>Features</h2>
     <ul>
         <li>Load URLs or upload text files containing URLs to fetch article content.</li>
