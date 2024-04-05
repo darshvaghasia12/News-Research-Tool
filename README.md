@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RockyBot: News Research Tool</title>
 </head>
 <body>
     <h1>RockyBot: News Research Tool</h1>
